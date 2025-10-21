@@ -60,7 +60,7 @@ public class StockVeiculos {
             System.out.println(s);
         }
 
-        
+
         System.out.println("\n=== Filtros de Veículos ===");
         for (String s : filtrosVeiculos(marcas, anos, precos)) {
             System.out.println(s);
